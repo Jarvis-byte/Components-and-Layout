@@ -1,6 +1,8 @@
 # Components-and-Layout
 <h2>Accordions</h2>
 <p>An accordion is used to show (and hide) HTML content.</p>
+<img src="Accordian.png"/>
+
 <h2>Accordion vs. Dropdown</h2>
 <p>This table shows the difference between an accordion and a dropdown:</p>
 <table class="ws-table-all">
